@@ -1,0 +1,19 @@
+{
+    "title" : "Arylo 的藏书阁",
+    "description": "收集已翻译的Web轻小说，方便未来时复读",
+    "author": "AryloYeung",
+    "language" : "zh-hans",
+    "plugins": [
+        "-highlight",
+        "-search",
+        "lightbox"
+    ],
+    "styles": {
+        "website": "style.css"
+    },
+    "links": {
+        "Github": "https://github.com/arylo",
+        "Repository": "https://github.com/Arylo/light_novels"
+    },
+    "root": "."
+}
