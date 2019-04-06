@@ -5,6 +5,10 @@
 ## 在VRMMO中当起了召唤士
 
 * [介绍](vrmmo/README.md)
+* [１匹目　FWO始めました](vrmmo/01.md)
+* [2匹目 鉴定](vrmmo/02.md)
+* [3匹目：召唤师，开始了哦](vrmmo/03.md)
+* [5匹目：VS野犬](vrmmo/05.md)
 * [21匹目 波帕尔的class change①](vrmmo/21.md)
 * [22匹目 vs拉斯贝尔](vrmmo/22.md)
 * [23匹目 無限１UP](vrmmo/23.md)
