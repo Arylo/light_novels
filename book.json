@@ -12,7 +12,8 @@
         "lightbox",
         "back-to-top-button",
         "pageview-count",
-        "flexible-alerts"
+        "flexible-alerts",
+        "scripts"
     ],
     "pluginsConfig": {
         "flexible-alerts": {
@@ -26,6 +27,11 @@
               "icon": "fa fa-info",
               "className": "info"
             }
+        },
+        "scripts": {
+            "files": [
+                "./script.js"
+            ]
         }
     },
     "styles": {
