@@ -32,6 +32,11 @@
               "label": "Info",
               "icon": "fa fa-info",
               "className": "info"
+            },
+            "chat": {
+              "label": "Chat",
+              "icon": "fa fa-comment-o",
+              "className": "tip"
             }
         },
         "scripts": {
