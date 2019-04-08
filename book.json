@@ -5,8 +5,13 @@
     "language" : "zh-hans",
     "plugins": [
         "-highlight",
+        "-lunr",
         "-search",
-        "lightbox"
+        "-fontsettings",
+        "search-pro",
+        "lightbox",
+        "back-to-top-button",
+        "pageview-count"
     ],
     "styles": {
         "website": "style.css"
