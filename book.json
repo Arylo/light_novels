@@ -5,15 +5,16 @@
     "language" : "zh-hans",
     "plugins": [
         "-highlight",
+        "-sharing",
         "-lunr",
         "-search",
         "-fontsettings",
+        "scripts",
         "search-pro",
-        "lightbox",
         "back-to-top-button",
         "pageview-count",
         "flexible-alerts",
-        "scripts"
+        "lightbox"
     ],
     "pluginsConfig": {
         "flexible-alerts": {
