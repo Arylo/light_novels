@@ -11,8 +11,23 @@
         "search-pro",
         "lightbox",
         "back-to-top-button",
-        "pageview-count"
+        "pageview-count",
+        "flexible-alerts"
     ],
+    "pluginsConfig": {
+        "flexible-alerts": {
+            "system": {
+              "label": "System",
+              "icon": "fa fa-comments",
+              "className": "info"
+            },
+            "status": {
+              "label": "Status",
+              "icon": "fa fa-info",
+              "className": "info"
+            }
+        }
+    },
     "styles": {
         "website": "style.css"
     },
