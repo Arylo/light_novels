@@ -27,6 +27,11 @@
               "label": "Status",
               "icon": "fa fa-info",
               "className": "info"
+            },
+            "info": {
+              "label": "Info",
+              "icon": "fa fa-info",
+              "className": "info"
             }
         },
         "scripts": {
