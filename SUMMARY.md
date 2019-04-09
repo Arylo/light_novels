@@ -35,6 +35,10 @@
 * [28匹目 山羊召喚](vrmmo/28.md)
 * [29匹目 ](vrmmo/29.md)
 
+## 转生成为魔剑
+
+* [600 被引来的家伙们](magic_sword/600.md)
+
 ## 转生王子的英雄谭
 
 * [介绍](prince_hero/README.md)
