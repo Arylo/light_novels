@@ -2,6 +2,11 @@
 
 * [首页](README.md)
 
+## 异世界转生骚动记
+
+* [介绍](sao/README.md)
+* [11.阿加莎登场](sao/11.md)
+
 ## 在VRMMO中当起了召唤士
 
 * [介绍](vrmmo/README.md)
@@ -37,6 +42,7 @@
 
 ## 转生成为魔剑
 
+* [介绍](magic_sword/README.md)
 * [600 被引来的家伙们](magic_sword/600.md)
 
 ## 转生王子的英雄谭
