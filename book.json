@@ -8,7 +8,7 @@
         "-sharing",
         "-lunr",
         "-search",
-        "-fontsettings",
+        "fontsettings",
         "scripts",
         "search-pro",
         "back-to-top-button",
