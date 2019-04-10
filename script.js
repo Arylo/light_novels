@@ -1,8 +1,12 @@
-setTimeout(function () {    
-    if ("/" === location.pathname || "/index.html" === location.pathname) {
-        document.querySelector('a.navigation-next').remove();
-    } else if (/(\/|\/index.html)$/.test(location.pathname)) {
-        document.querySelector('a.navigation-prev').remove();
-        document.querySelector('a.navigation-next').className = document.querySelector('a.navigation-next').className + " navigation-unique";
-    }
-}, 1000);
+require(['gitbook', 'jquery'], function(gitbook, $) {
+    gitbook.events.on('page.change', function() {
+        if ("/" === location.pathname || "/index.html" === location.pathname) {
+            $('a.navigation-next').remove();
+        } else if (/(\/|\/index.html)$/.test(location.pathname)) {
+            $('a.navigation-prev').remove();
+            if (!$('a.navigation-next').hasClass("navigation-unique")) {
+                $('a.navigation-next').addClass("navigation-unique");
+            }
+        }
+    });
+});
