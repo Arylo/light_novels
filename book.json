@@ -8,7 +8,7 @@
         "-sharing",
         "-lunr",
         "-search",
-        "fontsettings",
+        "-fontsettings",
         "scripts",
         "search-pro-fixed@github:arylo/gitbook-plugin-search-pro-fixed",
         "back-to-top-button",
