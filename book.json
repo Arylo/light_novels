@@ -10,7 +10,7 @@
         "-search",
         "-fontsettings",
         "scripts",
-        "search-pro-fixed@github:arylo/gitbook-plugin-search-pro-fixed",
+        "search-pro-fixed",
         "back-to-top-button",
         "pageview-count",
         "flexible-alerts",
