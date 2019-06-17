@@ -14,7 +14,8 @@
         "back-to-top-button",
         "pageview-count",
         "flexible-alerts",
-        "lightbox"
+        "lightbox",
+        "multi-books"
     ],
     "pluginsConfig": {
         "flexible-alerts": {
