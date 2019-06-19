@@ -15,6 +15,7 @@
         "pageview-count",
         "flexible-alerts",
         "lightbox",
+        "sitemap",
         "multi-books"
     ],
     "pluginsConfig": {
@@ -44,6 +45,9 @@
             "files": [
                 "./script.js"
             ]
+        },
+        "sitemap": {
+            "hostname": "https://novel.arylo.space"
         }
     },
     "styles": {
